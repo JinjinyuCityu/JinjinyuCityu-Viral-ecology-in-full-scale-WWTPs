@@ -1,7 +1,7 @@
 # JinjinyuCityu-Viral-ecology-in-full-scale-WWTPs
 This repository contains the R code used in the manuscript:
 
-**Host-linked virome assembly and turnover predict bacterial community structure in wastewater treatment systems** (submitted to *Nature Water*).
+**Host-linked virome assembly and turnover predict bacterial community structure in wastewater treatment systems** .
 
 The modelling code lives in the **`scripts/`** folder. Each script can be run independently or as part of an end-to-end workflow.
 
